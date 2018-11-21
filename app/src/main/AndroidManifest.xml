@@ -23,9 +23,6 @@
         <activity android:name=".Main2Activity" />
 
         <service android:name=".service.MusicService" />
-        <service
-            android:name=".service.MyIntentService"
-            android:exported="false"></service>
     </application>
 
 </manifest>
